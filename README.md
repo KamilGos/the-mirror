@@ -20,5 +20,9 @@ The movement of all parts is carried out using servos that are controlled by STM
 Finished project: https://youtu.be/uIIF3xdDFeE <br>
 Servo control using smile: https://youtu.be/Zro1Sdtm5g8
 
+## Author
+Kamil Goś <br>
+kamil.gos00@gmail.com
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
