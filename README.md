@@ -32,8 +32,9 @@ The Mirror is a robot that uses image processing to transform human facial expre
 
 
 ## :package: Content
- * []()
- * []()
+ * [main.py](main.py) - main executable script
+ * [math_functions.py](math_functions.py) - some helpfull math functions
+ * [shape_predictor_68_face_landmarks.dat](shape_predictor_68_face_landmarks.dat) - face landmarks predictor (ready model)
 
 ## :checkered_flag: Starting ##
 ```bash
