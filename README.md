@@ -56,6 +56,9 @@ Robot was designed using Autodesc Inventor. The neccesery parts were 3D printed 
 <h2>Presentation</h2>
 
 
+https://user-images.githubusercontent.com/44849247/143234300-581c71eb-b971-4278-8d25-23843e702b93.mp4
+
+https://user-images.githubusercontent.com/44849247/143234318-dca8f60c-8124-4f50-b084-b51d8029e789.mp4
 
 
 ## :microscope: Tests ##
