@@ -47,7 +47,6 @@ if(cap.isOpened() == False):
 else:
     print("Connected to camera")
 
-##  main loop
 while(True):
     ret, frame = cap.read()
     clean_frame = frame
